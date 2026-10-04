@@ -1,3 +1,4 @@
 Team members: HarshilGandhi148 and lucademaso
 Favorite programming language: Python
-Team motto: New partners
+Team motto: New motto for CS193
+
